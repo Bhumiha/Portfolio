@@ -34,7 +34,7 @@ const Experience = () => {
               <article>
                 <img src="checkmark.png" alt="Checkmark" className="icon" />
                 <div>
-                  <h3>PostgreSQL</h3>
+                  <h3>MySQL</h3>
                   <p>Basic</p>
                 </div>
               </article>
